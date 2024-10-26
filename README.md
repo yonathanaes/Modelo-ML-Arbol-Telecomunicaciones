@@ -1,2 +1,2 @@
-# Proyecto-de-modelado-de-negocio-telecomunicaciones
-Modelo adecuado para el plan de una empresa de telecomunicaciones
+# Modelo-Telecomunicaciones-Árbol
+Modelado de arbol de decisión, bosque aleatorio y regresión logistica para elegir el adecuado para el plan de una empresa de telecomunicaciones
